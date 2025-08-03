@@ -1,0 +1,2 @@
+# Diagram of my smarthome
+
