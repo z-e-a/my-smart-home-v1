@@ -1,2 +1,3 @@
-# Diagram of my smarthome
+#My smart-home files
+
 
